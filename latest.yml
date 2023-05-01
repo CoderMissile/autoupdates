@@ -1,0 +1,8 @@
+version: 1.0.0
+files:
+  - url: autoupdates-Setup-1.0.0.exe
+    sha512: YD2J/zwKhUN7VZfeXmke6DW6/baN8BwFmkn2T52u/w7pL1WbSZ58KUTCzYwNGXNWKfg6ohzttG6Lc/hiNqiK8Q==
+    size: 69807631
+path: autoupdates-Setup-1.0.0.exe
+sha512: YD2J/zwKhUN7VZfeXmke6DW6/baN8BwFmkn2T52u/w7pL1WbSZ58KUTCzYwNGXNWKfg6ohzttG6Lc/hiNqiK8Q==
+releaseDate: '2023-05-01T14:40:59.639Z'
